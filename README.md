@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=26&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyi+Thant+Sin+)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Vue.js Laravel**
 
 - 📫 How to reach me **kyithantsin4321@gmail.com**
 
