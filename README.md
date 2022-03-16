@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=26&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyi+Thant+Sin+)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyithantsin&label=Profile%20views&color=0e75b6&style=flat" alt="kyithantsin" /> </p>
 
 - 📫 How to reach me **kyithantsin4321@gmail.com**
 
