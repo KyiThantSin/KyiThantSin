@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio [https://my-portfolio-ten-gamma.vercel.app/](https://my-portfolio-ten-gamma.vercel.app/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyiThantSin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyiThantSin&show_icons=true&theme=default)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
